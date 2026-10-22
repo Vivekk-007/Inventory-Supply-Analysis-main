@@ -1,12 +1,13 @@
-﻿# Inventory & Supply Chain Planning Analytics
+# Inventory & Supply Chain Planning Analytics
 
 **Author:** Vivek Kumar · [GitHub](https://github.com/Vivekk-007)  
+**Repository folder:** `inventory-supply-chain-planning-analytics`  
 **Focus:** Supply chain planning, inventory optimization, demand analysis, and operational analytics  
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, SQL, and Power BI
 
 A planning-focused portfolio project that turns a daily SKU–warehouse extract into demand, forecast accuracy, reorder exposure, inventory coverage, and commercial performance views. It is intended for Supply Chain Planning Intern interviews, operations analysts, and business stakeholders.
 
-> **Source attribution:** This repository was adapted from the existing `Inventory-Supply-Analysis` project ZIP and its accompanying files. Original source author and repository URL were not present in the downloaded files, so they are not guessed here. The source notebook, dashboard, and dataset are retained as project inputs; Vivek Kumar's adaptations are documented in this README and the project materials.
+> **Source attribution:** This repository was adapted from the existing `Inventory-Supply-Analysis` project ZIP and its accompanying files. The source files are from [stevenadar/Inventory-Supply-Management_Analytics](https://github.com/stevenadar/Inventory-Supply-Management_Analytics), authored by stevenadar. The source notebook, dashboard, and dataset are retained as project inputs; Vivek Kumar's adaptations are documented in this README and the project materials.
 
 ## Implementation plan and current status
 
@@ -68,4 +69,4 @@ The supplied `.pbix` is a packaged Power BI report, but Power BI Desktop is not 
 
 ## Attribution and contributions
 
-The downloaded project files are treated as upstream source material. This adaptation does not claim original authorship of those files. Vivek Kumar's contributions in this repository are the project framing, source audit, repeatable analysis code, corrected notebook, SQL patterns, documentation, and Power BI rebuild specification. The source author's name and repository URL were not included in the ZIP; add the verified original attribution if those details are available.
+The downloaded project files are treated as upstream source material. This adaptation does not claim original authorship of those files. Vivek Kumar's contributions in this repository are the project framing, source audit, repeatable analysis code, corrected notebook, SQL patterns, documentation, and Power BI rebuild specification. The original project is attributed to stevenadar at [Inventory-Supply-Management_Analytics](https://github.com/stevenadar/Inventory-Supply-Management_Analytics).
