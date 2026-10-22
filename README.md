@@ -252,9 +252,6 @@ Future work should add validated master data, order and receipt history, invento
 GitHub: [Vivekk-007](https://github.com/Vivekk-007)
 
 ## Source attribution and licensing
-
-This repository adapts files from the upstream [Inventory-Supply-Management_Analytics project](https://github.com/stevenadar/Inventory-Supply-Management_Analytics). The adaptation adds the planning-oriented Python analysis, updated notebook, SQL examples, data-quality documentation, and Power BI rebuild guidance. The upstream dataset, PBIX, and screenshot remain source materials; this project does not claim to have created those assets.
-
 No license file was present in the supplied source files or this repository at review time. No license is asserted here. Review the upstream repository and obtain clarification from its maintainer before redistributing inherited assets.
 
 ## Conclusion
